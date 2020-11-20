@@ -22,7 +22,7 @@ Click image to view.
 [![main refresh](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/preview/Screenshot_20201120-233927_Kamus%20ID.jpg)](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/Screenshot_20201120-233927_Kamus%20ID.jpg)
 [![main refresh](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/preview/Screenshot_20201120-234014_Kamus%20ID.jpg)](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/Screenshot_20201120-234014_Kamus%20ID.jpg)
 
-[![main refresh](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/preview/Screenshot_20201120-233939_Kamus%20ID.jpg)](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/Screenshot_20201120-233939_Kamus%20ID.jpg)
+[![main refresh](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/preview/Screenshot_20201120-233939_Google.jpg)](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/Screenshot_20201120-233939_Google.jpg)
 [![main refresh](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/preview/Screenshot_20201120-233954_Kamus%20ID.jpg)](https://github.com/L200130134/KamusID-Project/raw/main/screenshots/Screenshot_20201120-233954_Kamus%20ID.jpg)
 
 Commit For
